@@ -1,5 +1,5 @@
 @TestTag
-Feature: feature to test google search functionality
+Feature: feature to test Trendyol Website
 
   Scenario: Validate google search is working
     Given browser is open
